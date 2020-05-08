@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6121254323167546288
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6121254323167546294}
+  - component: {fileID: 6121254323167546289}
+  m_Layer: 0
+  m_Name: GeneracionNivel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6121254323167546294
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6121254323167546288}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6121254323167546289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6121254323167546288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a70b3cef71d57be4794b6eb86fc47103, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PosicionInicio:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  cuartos:
+  - {fileID: 8699675832421411294, guid: de8c5e2b3daaef9469eff1092397e434, type: 3}
+  - {fileID: 3797259193440996481, guid: 76365ec6e5911f84d876478493115df6, type: 3}
+  - {fileID: 7999007259410684978, guid: a80353a3cbac12b41b52f0e101bf463f, type: 3}
+  - {fileID: 276152455832926564, guid: 0561f45dc660d5143b0ac61f5bcc5cd6, type: 3}
+  CantidadMovimiento: 10
+  InicioTiempoEntreCuartos: 0.25
+  minX: -15
+  maxX: 115
+  maxY: 65
+  DetenerGeneracion: 0
+  cuarto:
+    serializedVersion: 2
+    m_Bits: 524288
