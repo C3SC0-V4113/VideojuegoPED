@@ -981,7 +981,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 41.523724
+  orthographic size: 8
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1712,6 +1712,12 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 524288
   nivel: {fileID: 804766179}
+--- !u!1 &790946730 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3392728129269117084, guid: 2506036364b3dba4a8520a9fca51f34d,
+    type: 3}
+  m_PrefabInstance: {fileID: 620116318}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &804766178
 GameObject:
   m_ObjectHideFlags: 0
@@ -1743,7 +1749,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   personaje: {fileID: 1607825572913262571, guid: fe5cdc2693af84141b157ed9b86c53b3,
     type: 3}
-  triggerFinal: {fileID: 0}
+  triggerFinal: {fileID: 790946730}
   PosicionInicio:
   - {fileID: 1493972429}
   - {fileID: 850895830}

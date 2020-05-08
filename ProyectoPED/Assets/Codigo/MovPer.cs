@@ -45,13 +45,14 @@ public class MovPer : MonoBehaviour
     //Objeto que seria el ´proyectil con un RigidBody
     private GameObject proyectil;
     //Un vector que se mueve solo en la coordenada z
-    private Vector3 alejamientocamara = new Vector3(0.0f, 0.0f, -10.0f);
+    private Vector3 alejamientocamara = new Vector3(0.0f, 0.0f, -1.0f);
 
     private GameObject Mira;
 
     private void Awake()
     {
         camara = Camera.main;
+        camara.transform.localPosition = transform.localPosition + alejamientocamara;
     }
 
     void Start()
