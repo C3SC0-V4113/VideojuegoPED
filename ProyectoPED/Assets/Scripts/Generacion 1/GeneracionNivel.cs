@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class GeneracionNivel : MonoBehaviour
 {
+    public GameObject personaje;
+    public GameObject triggerFinal;
     //Marca la posicion donde se gerará la primera habitación de un arreglo de 4 posiciones
     //Es decir, 4 posibles habitaciones en el fondo
     public Transform[] PosicionInicio;
@@ -47,7 +49,8 @@ public class GeneracionNivel : MonoBehaviour
         //En la posicion inicial
         //Con una rotacion de cero
         Instantiate(cuartos[0], transform.position, Quaternion.identity);
-        direccion = Random.Range(1, 6);
+        Instantiate(personaje, transform.position, Quaternion.identity);
+        direccion = Random.Range(1, 6   );
     }
 
     private void Movimiento()
@@ -170,6 +173,7 @@ public class GeneracionNivel : MonoBehaviour
             {
                 //Si esta en el ultimo piso y decide ir hacia arriba, se detiene
                 //la generación de mundo
+                Instantiate(triggerFinal, transform.position, Quaternion.identity);
                 DetenerGeneracion = true;
                 Debug.Log("Final de Generación");
             }
