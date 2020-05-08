@@ -1,0 +1,437 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1252350835844786414
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2061718301979302722}
+  - component: {fileID: 1764775655890162340}
+  m_Layer: 0
+  m_Name: PuntoAparicionSuelo (36)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2061718301979302722
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1252350835844786414}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.5, y: -1.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5057705078200398646}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1764775655890162340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1252350835844786414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdb5054d530410344ae8e3f6e07a38ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objetos:
+  - {fileID: 3923866211409987049, guid: b2722fdca1a9e4743b5f43236d3e96bb, type: 3}
+  - {fileID: 5195285059792743371, guid: 6878ef68445dd8146808171ae6496574, type: 3}
+  - {fileID: 5645725824265997986, guid: 60ccb4d0a272c1944869029b3184cdc4, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+  - {fileID: 1708477086980329469, guid: 96fa1a4f83ab7f243bcce58dc0c6203c, type: 3}
+--- !u!1 &1601578171123243452
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2440152189447627582}
+  - component: {fileID: 8110448898798379807}
+  m_Layer: 0
+  m_Name: PuntoAparicionSuelo (36)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2440152189447627582
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1601578171123243452}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.5, y: 0.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5057705078200398646}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8110448898798379807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1601578171123243452}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdb5054d530410344ae8e3f6e07a38ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objetos:
+  - {fileID: 3923866211409987049, guid: b2722fdca1a9e4743b5f43236d3e96bb, type: 3}
+  - {fileID: 5195285059792743371, guid: 6878ef68445dd8146808171ae6496574, type: 3}
+  - {fileID: 5645725824265997986, guid: 60ccb4d0a272c1944869029b3184cdc4, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+  - {fileID: 1708477086980329469, guid: 96fa1a4f83ab7f243bcce58dc0c6203c, type: 3}
+--- !u!1 &1933705565498182476
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2682817530563245975}
+  - component: {fileID: 1093352110901156663}
+  m_Layer: 0
+  m_Name: PuntoAparicionSuelo (36)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2682817530563245975
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1933705565498182476}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.5, y: -0.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5057705078200398646}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1093352110901156663
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1933705565498182476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdb5054d530410344ae8e3f6e07a38ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objetos:
+  - {fileID: 3923866211409987049, guid: b2722fdca1a9e4743b5f43236d3e96bb, type: 3}
+  - {fileID: 5195285059792743371, guid: 6878ef68445dd8146808171ae6496574, type: 3}
+  - {fileID: 5645725824265997986, guid: 60ccb4d0a272c1944869029b3184cdc4, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+--- !u!1 &2283148685869611044
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9103743802587640422}
+  - component: {fileID: 1928439934513447621}
+  m_Layer: 0
+  m_Name: PuntoAparicionSuelo (40)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9103743802587640422
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2283148685869611044}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.5, y: -0.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5057705078200398646}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1928439934513447621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2283148685869611044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdb5054d530410344ae8e3f6e07a38ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objetos:
+  - {fileID: 3923866211409987049, guid: b2722fdca1a9e4743b5f43236d3e96bb, type: 3}
+  - {fileID: 5195285059792743371, guid: 6878ef68445dd8146808171ae6496574, type: 3}
+  - {fileID: 5645725824265997986, guid: 60ccb4d0a272c1944869029b3184cdc4, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+--- !u!1 &2493738785585715261
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7651682083764492985}
+  - component: {fileID: 3433538509890545514}
+  m_Layer: 0
+  m_Name: PuntoAparicionSuelo (38)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7651682083764492985
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2493738785585715261}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.5, y: -0.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5057705078200398646}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3433538509890545514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2493738785585715261}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdb5054d530410344ae8e3f6e07a38ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objetos:
+  - {fileID: 3923866211409987049, guid: b2722fdca1a9e4743b5f43236d3e96bb, type: 3}
+  - {fileID: 5195285059792743371, guid: 6878ef68445dd8146808171ae6496574, type: 3}
+  - {fileID: 5645725824265997986, guid: 60ccb4d0a272c1944869029b3184cdc4, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+--- !u!1 &3460499478452660473
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2680605655875791623}
+  - component: {fileID: 8411479947027997882}
+  m_Layer: 0
+  m_Name: PuntoAparicionSuelo (37)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2680605655875791623
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3460499478452660473}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.5, y: -0.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5057705078200398646}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8411479947027997882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3460499478452660473}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdb5054d530410344ae8e3f6e07a38ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objetos:
+  - {fileID: 3923866211409987049, guid: b2722fdca1a9e4743b5f43236d3e96bb, type: 3}
+  - {fileID: 5195285059792743371, guid: 6878ef68445dd8146808171ae6496574, type: 3}
+  - {fileID: 5645725824265997986, guid: 60ccb4d0a272c1944869029b3184cdc4, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+--- !u!1 &5359690553432472273
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5057705078200398646}
+  m_Layer: 19
+  m_Name: Plataforma1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5057705078200398646
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5359690553432472273}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2682817530563245975}
+  - {fileID: 2680605655875791623}
+  - {fileID: 7651682083764492985}
+  - {fileID: 2512018998495146495}
+  - {fileID: 9103743802587640422}
+  - {fileID: 1948898832968811796}
+  - {fileID: 2061718301979302722}
+  - {fileID: 2440152189447627582}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5900274636339660247
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1948898832968811796}
+  - component: {fileID: 2598043228582054304}
+  m_Layer: 0
+  m_Name: PuntoAparicionSuelo (41)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1948898832968811796
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5900274636339660247}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.5, y: -0.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5057705078200398646}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2598043228582054304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5900274636339660247}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdb5054d530410344ae8e3f6e07a38ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objetos:
+  - {fileID: 3923866211409987049, guid: b2722fdca1a9e4743b5f43236d3e96bb, type: 3}
+  - {fileID: 5195285059792743371, guid: 6878ef68445dd8146808171ae6496574, type: 3}
+  - {fileID: 5645725824265997986, guid: 60ccb4d0a272c1944869029b3184cdc4, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+--- !u!1 &6212727137579880942
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2512018998495146495}
+  - component: {fileID: 1457636882882972875}
+  m_Layer: 0
+  m_Name: PuntoAparicionSuelo (39)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2512018998495146495
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6212727137579880942}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.5, y: -0.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5057705078200398646}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1457636882882972875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6212727137579880942}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdb5054d530410344ae8e3f6e07a38ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objetos:
+  - {fileID: 3923866211409987049, guid: b2722fdca1a9e4743b5f43236d3e96bb, type: 3}
+  - {fileID: 5195285059792743371, guid: 6878ef68445dd8146808171ae6496574, type: 3}
+  - {fileID: 5645725824265997986, guid: 60ccb4d0a272c1944869029b3184cdc4, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}
+  - {fileID: 3307242015074729849, guid: dba7be0655c3092479c7e642abb05298, type: 3}

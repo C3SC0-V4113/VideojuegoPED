@@ -1052,10 +1052,10 @@ MonoBehaviour:
   - {fileID: 410905647}
   - {fileID: 1874591139}
   cuartos:
-  - {fileID: 8699675832421411294, guid: de8c5e2b3daaef9469eff1092397e434, type: 3}
-  - {fileID: 3797259193440996481, guid: 76365ec6e5911f84d876478493115df6, type: 3}
-  - {fileID: 7999007259410684978, guid: a80353a3cbac12b41b52f0e101bf463f, type: 3}
-  - {fileID: 276152455832926564, guid: 0561f45dc660d5143b0ac61f5bcc5cd6, type: 3}
+  - {fileID: 8699675832421411294, guid: 6a75c5212eaa84545aa720bdba06376e, type: 3}
+  - {fileID: 3797259193440996481, guid: f2f182cd378ad29478768100e030eadb, type: 3}
+  - {fileID: 7999007259410684978, guid: 17b3aeb22d9b5e54e8ad202e887925e7, type: 3}
+  - {fileID: 276152455832926564, guid: 3d47e6aec3a2ebf4abcbeb79c27e44da, type: 3}
   CantidadMovimiento: 10
   InicioTiempoEntreCuartos: 0.25
   minX: 35
